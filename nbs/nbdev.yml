@@ -1,9 +1,0 @@
-project:
-  output-dir: _docs
-
-website:
-  title: "hf-hub-utils"
-  site-url: "https://deep-diver.github.io/hf-hub-utils"
-  description: "utility library to interact with Hugging Face Hub easier for ML practitioners"
-  repo-branch: main
-  repo-url: "https://github.com/deep-diver/hf-hub-utils"
