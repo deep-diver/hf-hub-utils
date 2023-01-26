@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://deep-diver.github.io',
                 'git_url': 'https://github.com/deep-diver/hf-hub-utils',
                 'lib_path': 'hf_hub_utils'},
-  'syms': {'hf_hub_utils.core': {'hf_hub_utils.core.foo': ('core.html#foo', 'hf_hub_utils/core.py')}}}
+  'syms': { 'hf_hub_utils.core': { 'hf_hub_utils.core.foo': ('core.html#foo', 'hf_hub_utils/core.py'),
+                                   'hf_hub_utils.core.say_hello': ('core.html#say_hello', 'hf_hub_utils/core.py')}}}
